@@ -1,47 +1,47 @@
 #NovelNook - Online Bookstore
 
-About NovelNook
+-About NovelNook
 
 NovelNook is an online bookstore platform where users can buy, sell, and browse books effortlessly.
 
 The platform features both user and admin interfaces, allowing seamless management of books, users, and transactions.
 
-Features
+-Features
 User Interface
 
-Browse available books
+1) Browse available books
 
-Search for books by title, author, or genre
+2) Search for books by title, author, or genre
 
-Buy and sell books securely
+3) Buy and sell books securely
 
-View order history
+4) View order history
 
-User authentication and profile management
+5) User authentication and profile management
 
-Admin Interface
+-Admin Interface
 
-Manage book listings (add, update, delete)
+1) Manage book listings (add, update, delete)
 
-Track the number of users and their activities
+2) Track the number of users and their activities
 
-Monitor sales and transactions
+3) Monitor sales and transactions
 
-Handle user inquiries and support requests
+4) Handle user inquiries and support requests
 
-Tech Stack
+-Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+->Frontend: HTML, CSS, JavaScript
 
-Backend: JSP, Java
+->Backend: JSP, Java
 
-Database: MySQL
+->Database: MySQL
 
-Installation and Setup
+-Installation and Setup
 
 Clone the Repository:
 
-git clone https://github.com/your-username/novelnook.git
+git clone https://github.com/AKSHAYA0604/EP--NOVELNOOK.git
 
 Navigate to Project Directory:
 
@@ -55,13 +55,9 @@ Run the Project:
 
 npm start
 
-Contributing
+-Contributing
 
 Want to contribute? Feel free to fork the repository, make changes, and submit a pull request.
-
-License
-
-This project is licensed under the MIT License.
 
 Contact
 
